@@ -10,7 +10,7 @@
 ## 01 · 关于我
 
 - **现在** — 大二学生，正在系统地学习计算机基础知识。
-- **学习** — C / C++、Python、数据结构与算法、前端三件套。
+- **学习** — 系统学习 AI Agent 架构与工程实践，探索自主规划、工具调用与多智能体协作。
 - **方向** — 打好基础，未来向全栈 / AI 方向发展。
 - **兴趣** — 写代码、逛 GitHub 看大牛的项目、研究各种开源工具。
 - **交流** — 欢迎交流，有问题可以直接找我。
@@ -24,12 +24,12 @@
 
 ## 03 · 个人项目
 
-| 项目 | 简介 |
-| :--- | :--- |
-| **[m1 · LLM Toolkit](https://github.com/chujieHong/m1)** | 多模型 CLI + Web 工具，支持流式对话、Prompt 模板与用量统计。 |
-| **[CreateWorldAgent](projects/CreateWorldAgent.md)**<br /><sub>🔒 私有源码 · 公开介绍</sub> | 面对普通用户，将小说、剧本等故事材料改编为 2D 像素剧情游戏的本地 AI 工作台，同时是开源共创、二创以及多 IP 交融的游戏开发生态。 |
-| **[知膳 · 天工](https://github.com/chujieHong/zhishan-tianggong)**<br /><sub>zhishan-tianggong</sub> | 基于联网称重的智能供餐系统，提供实时监测、厨房看板与 AI 分析（团队作品）。 |
-| **[ai-news-crawler](https://github.com/chujieHong/ai-news-crawler)** | 基于 FastAPI + Vue 的 AI 资讯聚合系统，支持定时抓取、智能筛选与全文搜索。 |
+| 项目类别 | 项目 | 简介 |
+| :--- | :--- | :--- |
+| 个人项目 | **[m1 · LLM Toolkit](https://github.com/chujieHong/m1)** | 多模型 CLI + Web 工具，支持流式对话、Prompt 模板与用量统计。 |
+| 上海 Clawhunt 参赛项目<br /><sub>商业化赛道</sub> | **[CreateWorldAgent](projects/CreateWorldAgent.md)**<br /><sub>🔒 私有源码 · 公开介绍</sub> | 面对普通用户，将小说、剧本等故事材料改编为 2D 像素剧情游戏的本地 AI 工作台，同时是开源共创、二创以及多 IP 交融的游戏开发生态。 |
+| Xihack 2026 西客松参赛项目<br /><sub>企业赛道</sub> | **[zhishan-tiangong](https://github.com/chujieHong/zhishan-tianggong)**<br /><sub>知膳 · 天工</sub> | 基于联网称重的智能供餐系统，提供实时监测、厨房看板与 AI 分析（团队作品）。 |
+| 个人项目 | **[ai-news-crawler](https://github.com/chujieHong/ai-news-crawler)** | 基于 FastAPI + Vue 的 AI 资讯聚合系统，支持定时抓取、智能筛选与全文搜索。 |
 
 ## 04 · 技术栈
 
@@ -49,13 +49,6 @@
   <img src="https://img.shields.io/badge/CSS3-334155?style=flat-square&logo=css&logoColor=60A5FA" alt="CSS3" />
   <img src="https://img.shields.io/badge/Vue.js-334155?style=flat-square&logo=vuedotjs&logoColor=5EEAD4" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Node.js-334155?style=flat-square&logo=nodedotjs&logoColor=86EFAC" alt="Node.js" />
-</p>
-
-<p>
-  <strong>工具与环境</strong><br /><br />
-  <img src="https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=FB923C" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-334155?style=flat-square" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-334155?style=flat-square&logo=linux&logoColor=FACC15" alt="Linux" />
 </p>
 
 ## 05 · 贡献贪吃蛇
