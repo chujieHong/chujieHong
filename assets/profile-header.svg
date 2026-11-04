@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">chujieHong</title>
+  <desc id="desc">AI, Games and Open Source. Learning by building.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/><stop offset="1" stop-color="#102E40"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="64" y1="0" x2="1136" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <linearGradient id="code" x1="-43" y1="0" x2="43" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#7DD3FC" fill-opacity="0.13"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <path d="M64 2H1136" stroke="url(#accent)" stroke-width="4"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <circle cx="72" cy="62" r="5" fill="#5EEAD4"/>
+    <text x="90" y="68" fill="#A5C8D7" font-size="16" letter-spacing="3">LEARNING BY BUILDING</text>
+    <text x="64" y="159" fill="#F8FAFC" font-size="70" font-weight="700" letter-spacing="-2">chujieHong<tspan fill="#5EEAD4">.</tspan></text>
+    <text x="68" y="207" fill="#CBD5E1" font-size="22" letter-spacing="2">AI · GAMES · OPEN SOURCE</text>
+    <path d="M68 245H128" stroke="#5EEAD4" stroke-width="3" stroke-linecap="round"/>
+    <text x="145" y="250" fill="#7E9FAF" font-size="14" letter-spacing="2">EXPLORE. CREATE. SHARE.</text>
+  </g>
+  <g transform="translate(950 151)">
+    <circle r="112" stroke="#7DD3FC" stroke-opacity="0.10"/>
+    <circle r="82" stroke="#7DD3FC" stroke-opacity="0.19"/>
+    <path d="M-122 0H122M0-122V122" stroke="#7DD3FC" stroke-opacity="0.10"/>
+    <rect x="-70" y="-51" width="140" height="102" rx="14" fill="#0F2235" stroke="#365870"/>
+    <path d="M-70-25H70" stroke="#365870"/>
+    <circle cx="-52" cy="-38" r="3" fill="#5EEAD4"/>
+    <circle cx="-40" cy="-38" r="3" fill="#60A5FA"/>
+    <circle cx="-28" cy="-38" r="3" fill="#365870"/>
+    <path d="M-29-4L-43 9L-29 22M29-4L43 9L29 22M9-8L-8 28" stroke="url(#code)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="0" cy="-112" r="5" fill="#60A5FA"/>
+    <circle cx="97" cy="56" r="6" fill="#5EEAD4"/>
+    <circle cx="-71" cy="41" r="4" fill="#60A5FA"/>
+    <path d="M-118-60H-106M-112-66V-54M99-83H111M105-89V-77" stroke="#7DD3FC" stroke-opacity="0.55" stroke-width="2"/>
+  </g>
+</svg>
+
