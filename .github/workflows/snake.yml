@@ -18,7 +18,7 @@ jobs:
       # 生成贪吃蛇 SVG（亮色 + 暗色两版）
       - uses: Platane/snk@v3
         with:
-          github_user_name: Georgyhongbo
+          github_user_name: chujieHong
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
