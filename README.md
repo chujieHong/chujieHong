@@ -30,6 +30,15 @@
 - **TinyVue** -- [https://github.com/opentiny/tiny-vue](https://github.com/opentiny/tiny-vue) : 6个pr，4个issue(3个已做)
 - **Octop** -- [https://github.com/TencentCloud/Octop](https://github.com/TencentCloud/Octop) : 20+个pr (同时我也是octop的maintainer)
 
+## 🚀 个人项目 Personal Projects
+
+| 项目 | 简介 |
+| --- | --- |
+| [m1 · LLM Toolkit](https://github.com/chujieHong/m1) | 统一调用多家大模型 API 的 CLI + Web 工具，支持流式输出、Prompt 模板、对话历史及 Token 与成本统计。通过可插拔 Provider 简化模型接入和切换。 |
+| [CreateWorldAgent](projects/CreateWorldAgent.md) 🔒 私有源码 | 将小说、剧本等故事材料改编为 2D 像素剧情游戏的本地 AI 工作台。支持制作记录查看、试玩修改、版本管理和独立 HTML5 游戏导出，目前处于开发阶段。 |
+| [zhishan-tianggong · 知膳](https://github.com/chujieHong/zhishan-tianggong) | 面向旋转小火锅场景的智能供餐管理系统，将联网秤数据转化为实时余量、取用及补充记录。提供管理端、厨房看板与 AI 分析，辅助备料和供餐决策；为团队共同作品。 |
+| [ai-news-crawler](https://github.com/chujieHong/ai-news-crawler) | 基于 FastAPI + Vue 的 AI 资讯聚合系统，以 B 站视频为核心数据源。支持定时抓取、主题筛选、LLM 相关性评分与摘要，以及全文搜索和可视化管理。 |
+
 ## 🛠️ 技术栈 Tech Stack
 
 <div align="center">
@@ -74,3 +83,4 @@
 ⭐ 感谢你的来访！如果喜欢这个主页，欢迎 Star ⭐
 
 </div>
+
