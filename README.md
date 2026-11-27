@@ -26,7 +26,7 @@
 
 | 项目类别 | 项目 | 简介 |
 | :--- | :--- | :--- |
-| 个人项目 | **[知序](https://github.com/chujieHong/m1)**<br /><sub>对应 m1 项目</sub> | 多模型 CLI + Web 工具，支持流式对话、Prompt 模板与用量统计。 |
+| 个人项目 | **[知序](https://github.com/chujieHong/m2)**<br /><sub>对应 m1/m2 项目</sub> | 多模型 CLI + Web 工具，支持流式对话、Prompt 模板与用量统计。 |
 | 上海 Clawhunt 参赛项目<br /><sub>商业化赛道</sub> | **[CreateWorldAgent](https://github.com/liiiyiiixiii/create-world-harness)** | 面对普通用户，将小说、剧本等故事材料改编为 2D 像素剧情游戏的本地 AI 工作台，同时是开源共创、二创以及多 IP 交融的游戏开发生态。 |
 | Xihack 2026 西客松参赛项目<br /><sub>企业赛道</sub> | **[zhishan-tiangong](https://github.com/chujieHong/zhishan-tianggong)**<br /><sub>知膳 · 天工</sub> | 基于联网称重的智能供餐系统，提供实时监测、厨房看板与 AI 分析（团队作品）。 |
 | 个人项目 | **[ai-news-crawler](https://github.com/chujieHong/ai-news-crawler)** | 基于 FastAPI + Vue 的 AI 资讯聚合系统，支持定时抓取、智能筛选与全文搜索。 |
